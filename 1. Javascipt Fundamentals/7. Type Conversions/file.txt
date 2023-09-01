@@ -1,0 +1,1 @@
+this module focuses on converting numbers to strings, strings to numbers and strings to booleans
